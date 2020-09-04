@@ -1,0 +1,64 @@
+
+.container-fluid{
+  padding-top: 3rem;
+  widows: 100%;
+  font-family: "lucida grande",kahoma,'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: linear-gradient(white,#D3D8E8);
+}
+.navbar{
+background-color: #4c66a4 !important;
+    margin: 0px auto !important;
+    padding: 0px !important;
+    height: 85px !important;
+}
+
+.navbar-brand{
+   padding-left: 150px !important;
+  float: left !important;
+  text-align: left !important;
+  color: white !important;
+ 
+}
+img{
+  padding: 1rem !important;
+}
+
+.new li{
+display: inline;
+
+}
+
+.new
+{padding: 5px;
+}
+.col-md-5 h2{
+  width: 390px !important;
+         text-align: left !important;
+}
+
+ .bud h6{
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+ }
+  .bud span{
+    font-size: 20px;
+    font-family: arial;
+    font-weight: bold;
+    margin: 0px;
+    color: #0e385f;
+      }
+
+      .bud h2{
+        display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+      }
+
+    
